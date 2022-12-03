@@ -3032,12 +3032,12 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
+  background-color: #42423d;
   border-color: #f4623a;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #cf5331;
+  background-color: #50b6b5;
   border-color: #c34e2e;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
@@ -11319,7 +11319,7 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #f4623a;
+  background-color: #50b6b5;
   opacity: 1;
 }
 
